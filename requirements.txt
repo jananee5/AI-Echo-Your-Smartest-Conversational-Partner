@@ -9,3 +9,4 @@ scikit-learn
 sentencepiece
 huggingface-hub
 requests
+pip>=25.1.1
